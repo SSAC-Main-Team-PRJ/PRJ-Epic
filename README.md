@@ -32,7 +32,7 @@
 # Conclusion
 ##  Comparison of RMSE Score Each Model
 <p align='center'>
-    <img src="./image/spiderman.png"/>
+    <img src="./Image/Comparison of RMSE Score Each Model.png"/>
 </p>
 ##  Comparison of Model Function
 
