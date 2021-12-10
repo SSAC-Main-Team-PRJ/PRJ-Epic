@@ -14,11 +14,11 @@
 - RANDOM FOREST REGRESSOR
 - XGBOOST REGRESSOR
 - LIGHTGBM REGRESSOR
-5. Evaluation of Model RMSE
+5. Evaluation of Model : RMSE
 
 # Project Report :
 ## 1. Project Contents
-## 주제 : 서울지역 부동산 빅데이터와 Mechiene Learning을 이용하여 실거래가를 예측 분석
+## 주제 : 서울지역 부동산 빅데이터와 Mechiene Learning을 이용하여 실거래가 예측 분석
 ## 주제 설명: 
 ### 1.  주제 선정 배경 : 
 - 서울은 아파트 집값 상승을 견인하며 지속적으로 가격이 변동되고 있다.
@@ -38,5 +38,13 @@
 </p>
 
 ###  Comparison of Model Function
+<p align='center'>
+    <img src="./Image/Comparison Of Model Function.png"/>
+</p>
+<p align='center'>
+    <img src="./Image/Important Features for Apt Price.png"/>
+</p>
+
+
 
 
