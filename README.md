@@ -27,7 +27,9 @@
   - 온라인상에서 이용할 수 있는 예측 시스템에서 제공하는 정보는 부동산 제도나 환경요인의 요소가 결여되어 있다.
 
 ## Project Work Flow: 
-- Problem Definition -> Collection Data->Data Processing-> Modeling -> Evaluation of Model -> Conclusion
+<p align='center'>
+    <img src="./Image/PRJ EDA Process.drawio.png"/>
+</p>
 ## Conclusion
 ###  Comparison of RMSE Score Each Model
 <p align='center'>
